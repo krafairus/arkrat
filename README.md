@@ -1,3 +1,7 @@
+##Índice
+
+*[Indice](#indice)
+
 # Arkrat 0.0.1
 Un script para el uso porterior a la instalacion de arch linux que hace que tu paso por esta distro o derivadas sea de forma mas comoda.
 
