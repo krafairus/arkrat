@@ -18,6 +18,11 @@ Un script para el uso porterior a la instalacion de [Arch Linux](https://archlin
 ```
 curl -L is.gd/arkrat > Arkrat ; sh Arkrat
 ```
+> Método 2
+```
+pacman -Sy wget --noconfirm
+wget is.gd/arkrat ; sh Arkrat
+```
 
 > Método 2
 ```
