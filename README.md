@@ -8,7 +8,7 @@ Un script para el uso porterior a la instalacion de arch linux que te facilita t
 2. Entornos de Escritorio
 3. Audio y Video (en desarrollo)
 4. Kernerls Linux
-5. Programas Esenciales
+5. Programas Esenciales (en desarrollo)
 
 Como descargar el script:
 
