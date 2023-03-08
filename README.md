@@ -6,7 +6,7 @@ Un script para el uso porterior a la instalacion de arch linux que hace que tu p
 #indice
 !! Advertencia !! : No usar la opcion de kernels en manjaro, despues se solucionara eso, por ahora solo usar esa opcion en archlinux.
 
-¿Que contiene?
+## ¿Que contiene?
 1. Aur Helpers
 2. Entornos de Escritorio
 3. Audio y Video (en desarrollo)
