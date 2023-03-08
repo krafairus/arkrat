@@ -1,5 +1,5 @@
 # Arkrat
-Un script para el uso porterior a la instalacion de arch linux que te facilita tu paso por arch linuxmas comodo.
+Un script para el uso porterior a la instalacion de arch linux que te hace que tu paso por esta distro o derivadas sea mas comodo.
 
 !! Advertencia !! : No usar la opcion de kernels en manjaro, despues se solucionara eso, por ahora solo usar esa opcion en archlinux.
 
