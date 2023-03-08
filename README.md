@@ -7,10 +7,10 @@ Un script para el uso porterior a la instalacion de [Arch Linux](https://archlin
 
 ## ¿Que contiene?
 > 1. Aur Helpers
-> 2. Entornos de Escritorio
-> 3. Audio y Video (en desarrollo)
+> 2. Entornos de Escritorio y Gestores de Ventanas
+> 3. Drivers (en desarrollo)
 > 4. Kernerls Linux
-> 5. Programas Esenciales (en desarrollo)
+> 5. Programas Extras (en desarrollo)
 
 ## ¿Como instalarlo y usarlo?
 
