@@ -1,5 +1,12 @@
 #!/bin/bash
 clear
+chmod +x *
+chmod +x options/*
+chmod +x options/aurhelper/*
+chmod +x options/desktop/*
+chmod +x options/kernels/*
+chmod +x options/programs/*
+
 if [ "$(id -u)" != "1000" ]; then
    echo "No Ejecutes Este Script Como Root (estas usando sudo, no lo hagas), ejecutalo sin sudo nuevamente por favor."
    exit 1
