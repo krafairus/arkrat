@@ -17,9 +17,11 @@ Un script para el uso porterior a la instalacion de [Arch Linux](https://archlin
 > Método 1
 ```
 curl -L is.gd/arkrat > Arkrat ; sh Arkrat
+```
 
 > Método 2
 ```
 git clone https://github.com/krafairus/Arkrat.git && cd Arkrat && chmod +x * && ./arkrat-install.sh
+```
 
 ### Gracias por usar mi script, espero sea de su agrado, si tienes problemas o sugerencias son siempre bienvenidas.
