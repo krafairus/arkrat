@@ -1,5 +1,30 @@
 #!/bin/bash
 clear
+# Shell script to display list of file names
+# having read, Write and Execute permission
+echo "The name of all files having all permissions :"
+  
+# loop through all files in current directory
+for file in *
+do
+
+# check if it is a file
+if [ -f $file ]
+then
+
+# check if it has all permissions
+if [ -r $file -a -w $file -a -x $file ]
+then
+
+# print the complete file name with -l option
+ls -l $file
+
+# closing second if statement
+fi
+
+# closing first if statement
+fi
+clear
 if [ "$(id -u)" != "1000" ]; then
    echo "No Ejecutes Este Script Como Root (estas usando sudo, no lo hagas), ejecutalo sin sudo nuevamente por favor."
    exit 1
