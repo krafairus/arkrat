@@ -13,7 +13,7 @@ Un script para el uso porterior a la instalacion de arch linux que hace que tu p
 4. Kernerls Linux
 5. Programas Esenciales (en desarrollo)
 
-Como descargar el script:
+## ¿Como instalarlo y usarlo?
 
 Metodo 1:
 git clone https://github.com/krafairus/Arkrat.git && cd Arkrat && chmod +x * && ./archinstall-kra.sh
