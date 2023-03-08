@@ -4,7 +4,7 @@
 
 # Arkrat 0.0.1
 Un script para el uso porterior a la instalacion de arch linux que hace que tu paso por esta distro o derivadas sea de forma mas comoda.
-##indice
+#indice
 !! Advertencia !! : No usar la opcion de kernels en manjaro, despues se solucionara eso, por ahora solo usar esa opcion en archlinux.
 
 ¿Que contiene?
