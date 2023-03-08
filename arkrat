@@ -19,14 +19,12 @@ sleep 5
 fi
 
 clear
-curl -LJO https://github.com/CodigoCristo/arcris/archive/master.tar.gz
-tar  -xvf  arcris-master.tar.gz
-cd arcris-master
+git clone https://github.com/krafairus/Arkrat.git
+cd Arkrat
 
 cp .dialogrc /root
 chmod +x *
 clear
 echo "Cargando Arkrat..."
 sleep 2
-cd Arkrat
 sh arkrat-install.sh
