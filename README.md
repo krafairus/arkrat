@@ -15,7 +15,7 @@ Un script para el uso porterior a la instalacion de [Arch Linux](https://archlin
 ## ¿Como instalarlo y usarlo?
 
 Metodo 1:
-git clone https://github.com/krafairus/Arkrat.git && cd Arkrat && chmod +x * && ./archinstall-kra.sh
+git clone https://github.com/krafairus/Arkrat.git && cd Arkrat && chmod +x * && ./arkrat-install.sh
 
 Metodo 2: proximamente.
 
