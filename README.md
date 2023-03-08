@@ -20,4 +20,4 @@ git clone https://github.com/krafairus/Arkrat.git && cd Arkrat && chmod +x * && 
 
 Metodo 2: proximamente.
 
-### Gracias por usar mi script, espero sea de su agrado, si tienes problemas o sugerencias son siempre bienvenidas.
+##### Gracias por usar mi script, espero sea de su agrado, si tienes problemas o sugerencias son siempre bienvenidas.
