@@ -24,7 +24,7 @@ pacman -Sy wget --noconfirm
 wget is.gd/arkrat ; sh Arkrat
 ```
 
-> Método 2
+> Método 3
 ```
 git clone https://github.com/krafairus/Arkrat.git && cd Arkrat && chmod +x * && ./arkrat-install.sh
 ```
