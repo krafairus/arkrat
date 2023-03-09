@@ -19,7 +19,7 @@ sleep 5
 fi
 
 clear
-cd
+cd ~
 git clone https://github.com/krafairus/Arkrat.git
 cd Arkrat
 
