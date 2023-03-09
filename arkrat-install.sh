@@ -13,8 +13,8 @@ if [ "$(id -u)" != "1000" ]; then
 fi
 sudo pacman -S --noconfirm --needed dialog
 items=(1 "AUR HELPER               Gestos de Paquetes con soporte AUR (Arch User Repository)"
-       2 "(DE) O (WM)              Entorno de Escritorio O un Gestor de Ventanas"
-       3 "DRIVERS (EN DESARROLLO)  Controladores graficos, de multimedia entre otros"
+       2 "(DE) o (WM)              Entorno de Escritorio O un Gestor de Ventanas"
+       3 "DRIVERS (NO USAR)  Controladores graficos, de multimedia entre otros"
        4 "KERNELS                  Kernels linux para distintos usos"
        5 "PROGRAMAS EXTRAS         Programas para uso comun o inicial"     
        6 "SALIR"
@@ -26,7 +26,7 @@ while choice=$(dialog --title "- | Arkrat - krafairus - krafairus.blogspot.com |
     do
     case $choice in
         1) ./options/aurhelper.sh;;
-        2) ./options/desktop.sh;;
+        2) ./options/desktopwm.sh;;
         3) ./options/drivers.sh;;
         4) ./options/kernels.sh;; 
         4) ./options/programs.sh;; 
