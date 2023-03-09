@@ -1,6 +1,6 @@
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-# Arkrat 0.5
+# Arkrat 0.7
 Un script para el uso porterior a la instalacion de [Arch Linux](https://archlinux.org/) que hace que tu paso por esta distro o derivadas sea de forma mas comoda.
 
 !! Advertencia !! : No usar la opcion de kernels en [Manjaro](https://manjaro.org/), despues se solucionara eso, por ahora solo usar esa opcion en [Arch linux](https://archlinux.org/).
