@@ -11,7 +11,7 @@ if [ "$(id -u)" != "1000" ]; then
    echo "No Ejecutes Este Script Como Root (estas usando sudo, no lo hagas), ejecutalo sin sudo nuevamente por favor."
    exit 1
 fi
-sudo pacman -S --noconfirm --needed dialog
+sudo pacman -Sy glibc dialog curl ncurses --noconfirm --needed
 items=(1 "AUR HELPER               Gestos de Paquetes con soporte AUR (Arch User Repository)"
        2 "(DE) o (WM)              Entorno de Escritorio O un Gestor de Ventanas"
        3 "DRIVERS (NO USAR)  Controladores graficos, de multimedia entre otros"
