@@ -19,8 +19,8 @@ sleep 5
 fi
 
 clear
-cd ~
-git clone https://github.com/krafairus/Arkrat.git
+curl -LJO https://github.com/krafairus/Arkrat/archive/master.tar.gz
+tar  -xvf  Arkrat-master.tar.gz
 cd Arkrat
 
 clear
