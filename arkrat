@@ -18,12 +18,11 @@ sudo pacman -Sy glibc dialog curl ncurses --noconfirm --needed
 sleep 5
 fi
 
-clear
+
 git clone https://github.com/krafairus/Arkrat.git
 cd Arkrat
 
 chmod +x *
-clear
 echo "Cargando Arkrat..."
 sleep 2
 sh arkrat-install.sh
