@@ -21,7 +21,7 @@ fi
 clear
 curl -LJO https://github.com/krafairus/Arkrat/archive/master.tar.gz
 tar -xvf Arkrat-master.tar.gz
-cd Arkrat
+cd Arkrat-master
 
 clear
 chmod +x *
